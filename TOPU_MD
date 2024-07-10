@@ -4,4 +4,4 @@ WORKDIR /root/Topumdai
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY TOPU TECH
+# POWERD BY RICHIEE EMPIRE TECH
